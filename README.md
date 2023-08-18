@@ -42,3 +42,8 @@ THEN I should have proper build scripts for a webpack application
 ## Project Screenshot
 ![](./images/Screenshot%202023-08-17%20214700.png)
 
+## Deployed Project Link
+
+https://jate-editor-rtm-0ec7e4bfe810.herokuapp.com/
+
+
